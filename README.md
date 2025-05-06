@@ -71,11 +71,6 @@ genomic-ocr-bioinformatics/
 }
 ```
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request with improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or suggestions, open an issue or contact [chad@example.com].
+
